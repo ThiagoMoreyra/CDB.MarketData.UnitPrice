@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CDB.MarketData.Api\CDB.MarketData.Api.csproj" />
-    <ProjectReference Include="..\CDB.MarketData.Domain\CDB.MarketData.Domain.csproj" />
+    <ProjectReference Include="..\src\CDB.MarketData.Api\CDB.MarketData.Api.csproj" />
+    <ProjectReference Include="..\src\CDB.MarketData.Domain\CDB.MarketData.Domain.csproj" />
   </ItemGroup>
 
 </Project>
