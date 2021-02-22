@@ -1,0 +1,12 @@
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\bin\Release\netcoreapp3.1\CDB.MarketData.Infra.deps.json
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\bin\Release\netcoreapp3.1\CDB.MarketData.Infra.dll
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\bin\Release\netcoreapp3.1\CDB.MarketData.Infra.pdb
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\bin\Release\netcoreapp3.1\CDB.MarketData.Domain.dll
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\bin\Release\netcoreapp3.1\CDB.MarketData.Domain.pdb
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\obj\Release\netcoreapp3.1\CDB.MarketData.Infra.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\obj\Release\netcoreapp3.1\CDB.MarketData.Infra.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\obj\Release\netcoreapp3.1\CDB.MarketData.Infra.AssemblyInfo.cs
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\obj\Release\netcoreapp3.1\CDB.MarketData.Infra.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\obj\Release\netcoreapp3.1\CDB.MarketData.Infra.csproj.CopyComplete
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\obj\Release\netcoreapp3.1\CDB.MarketData.Infra.dll
+C:\Users\thiag\source\repos\gorila\src\CDB.MarketData.App\CDB.MarketData.Infra\obj\Release\netcoreapp3.1\CDB.MarketData.Infra.pdb
